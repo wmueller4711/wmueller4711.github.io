@@ -2,7 +2,7 @@
 public web page
 
 This is my public github page. 
-My ORICD web page is at orcid.org/0000-0002-1297-9725
+My ORICD web page is at orcid.org/0000-0002-1297-9725 (https://orcid.org/0000-0002-1297-9725)
 
 OpenAlex knows the page but did not yet update my author profile. 
 Here is the correction file for OpenAlex.
